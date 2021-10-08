@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JordiBonacini
-- 👀 I’m interested in software development, web development and web designing.
+- 👀 I’m interested in software development, web development and web design.
 - 🌱 I’m currently learning php, javascript and his frameworks.
 
 
